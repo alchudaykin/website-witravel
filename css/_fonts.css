@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Howvetica.woff2') format('woff2');
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair';
+    src: url('../fonts/PlayfairDisplay-Regular.woff2') format('woff2');
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFProDisplay';
+    src: url('../fonts/SFProDisplay-Bold.woff2') format('woff2');
+    font-display: swap;
+    font-weight: 800;
+    font-style: normal;
+}

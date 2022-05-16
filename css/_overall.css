@@ -1,0 +1,47 @@
+.container {
+    max-width: 1026px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+.site-container {
+    overflow: hidden;
+}
+
+.flex {
+    display: flex;
+}
+
+.btn-reset {
+    padding: 0;
+
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 45px;
+
+    color: var(--dark-color);
+}
+
+.section-title--center {
+    max-width: none;
+
+    text-align: center;
+}
+
+.btn {
+    padding: 20px 50px;
+
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    border-radius: 8px;
+    color: var(--white-color);
+}
