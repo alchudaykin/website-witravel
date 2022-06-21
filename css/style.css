@@ -7,11 +7,11 @@
 @import "vendor.css";
 
 /*page*/
-@import "components/header.css";
-@import "components/first.css";
-@import "components/become.css";
-@import "components/featured.css";
-@import "components/slider.css";
-@import "components/newsletter.css";
-@import "components/insp.css";
-@import "components/footer.css";
+@import "./components/header.css";
+@import "./components/first.css";
+@import "./components/become.css";
+@import "./components/featured.css";
+@import "./components/slider.css";
+@import "./components/newsletter.css";
+@import "./components/insp.css";
+@import "./components/footer.css";

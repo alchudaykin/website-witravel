@@ -189,3 +189,16 @@
         ;
     }
 }
+
+@media (max-width: 420px) {
+    .menu__close {
+        right: 8%;
+        top: 4%;
+    }
+}
+
+@media (max-width: 376px) {
+    .menu__close {
+        top: 5%;
+    }
+}

@@ -87,7 +87,7 @@
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 420px) {
     .become {
         padding-top: 80px;
     }
@@ -108,3 +108,5 @@
         object-fit: cover;
     }
 }
+
+

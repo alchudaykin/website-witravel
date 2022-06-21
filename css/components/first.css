@@ -269,10 +269,9 @@
     }
 }
 
-@media (max-width: 376px) {
-
+@media (max-width: 420px) {
     .first {
-        height: 120vh;
+        height: 100vh;
     }
 
     .first__title {
@@ -281,7 +280,6 @@
         font-size: 35px;
         line-height: 40px;
     }
-
     .first__descr {
         max-width: 100%;
 
@@ -295,5 +293,12 @@
 
     .search-form {
         display: none;
+    }
+}
+
+@media (max-width: 376px) {
+
+    .first {
+        height: 120vh;
     }
 }

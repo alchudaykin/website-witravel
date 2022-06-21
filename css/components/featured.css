@@ -198,7 +198,7 @@
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 420px) {
     .featured {
         display: flex;
         flex-wrap: wrap;
